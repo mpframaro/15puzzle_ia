@@ -1,0 +1,5 @@
+Para executar o progama tera de escrever no terminal python3 busca.py nomedaestrategia < input.txt
+
+Precisa de ter a biblioteca Numpy instalada.
+
+Este programa foi compilado num computador com o sistema operativo Windows 10 na linguagem Python com versoes 21H2 e 3.10.10 respetivamente.
